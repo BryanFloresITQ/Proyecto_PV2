@@ -1,0 +1,12 @@
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\bin\Debug\net5.0\Modelo.deps.json
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\bin\Debug\net5.0\Modelo.dll
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\bin\Debug\net5.0\ref\Modelo.dll
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\bin\Debug\net5.0\Modelo.pdb
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\obj\Debug\net5.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfoInputs.cache
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\obj\Debug\net5.0\Modelo.AssemblyInfo.cs
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\obj\Debug\net5.0\Modelo.csproj.CoreCompileInputs.cache
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\obj\Debug\net5.0\Modelo.dll
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\obj\Debug\net5.0\ref\Modelo.dll
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\obj\Debug\net5.0\Modelo.pdb
+D:\Archivos Visual\Proyecto_Visual_2\Modelo\obj\Debug\net5.0\Modelo.csproj.AssemblyReference.cache

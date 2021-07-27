@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Modelo.Pagos.Configuracion">
+    <Position X="0.5" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAgAAEgAAAABAAAACAAAAIAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pagos\Configuracion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Pagos.Estados">
+    <Position X="2.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAADAAAACAAAAAACAAAAAAABAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Pagos\Estados.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Pagos.Estudiante">
+    <Position X="6" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAoAAAAAgEAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pagos\Estudiante.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Pagos.Pagos">
+    <Position X="7.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAYAAAAggAEgAAAABAAEAAAAEAAAIAAIACQABAACA=</HashCode>
+      <FileName>Pagos\Pagos.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Pagos.PagosPorPeriodo">
+    <Position X="9.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAgAEgAAAAAAgAIAAQAASCABAAAAAJAAAAAAgEA=</HashCode>
+      <FileName>Pagos\PagosPorPeriodo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Pagos.Penalizacion">
+    <Position X="13" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAABAAAABAABAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pagos\Penalizacion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Pagos.Periodo">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAIACgAAAAAAAAAAAAAAAgAAAAAAAAAAAAAgAEA=</HashCode>
+      <FileName>Pagos\Periodo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Modelo.Pagos.TiposPago">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAgAAAAAAIAEAAAAAAAAAAACQAAAAAA=</HashCode>
+      <FileName>Pagos\TiposPago.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Font Name="Segoe UI" Size="8.83" />
+</ClassDiagram>
